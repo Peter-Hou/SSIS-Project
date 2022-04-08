@@ -1,0 +1,8 @@
+AppName | Rating | Summary
+Temple Run | 8 | Try to evade the chasing pack by running along causeways and bridges, ducking under trees and leaping obstacles
+BBC News | 9 | News channel from the ever-reliable BBC
+Scramble | 7 | The most addictive word game ever created: try to spell out words from a Boggle-style grid
+Meeblings | 8 | Different Meeblings behave differently, according to their colour - solve puzzles at each level
+Met Office | 7 | Accurate weather foreacsts by your chosen areas up to 5 days in advance
+Train times | 8 | UK train times: plan journeys or see real time information on why your train is held up in a siding in Waftford
+Fruit Ninja | 8 | Karate-chop pineapples, water-melons and lots of other fruit to win points
