@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="C23-1011"
   DTS:CreatorName="CPR\ZHou"
-  DTS:DTSID="{36CB3BF4-8347-455C-868E-5962BF5B4442}"
+  DTS:DTSID="{561DFD37-A963-4FF4-9074-B7A144E98160}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.2000.170"
   DTS:LocaleID="4105"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="Transformation Practice"
   DTS:PackageType="5"
-  DTS:VersionBuild="10"
-  DTS:VersionGUID="{3FC98DCF-D5DC-48E5-A9C2-00DB26581058}">
+  DTS:VersionBuild="12"
+  DTS:VersionGUID="{CE3105E0-940A-4036-B6C8-DDA504CF9E02}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -735,7 +735,7 @@
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-152.015754655867,29.3823536758192,133.260078125,16"
+              BoundingBox="-143.327766374617,29.3823536758192,115.8841015625,11.6630859375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -771,7 +771,7 @@
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="35.2644869122539,26.6269964199887,144.290078125,16"
+              BoundingBox="43.9524751935039,26.6269964199887,126.9141015625,11.6630859375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>

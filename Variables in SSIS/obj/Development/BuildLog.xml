@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
-    <Name>Basic Transformation</Name>
-    <LastWriteTime>2022-04-08T14:03:15.162668Z</LastWriteTime>
+    <Name>Variables in SSIS</Name>
+    <LastWriteTime>2022-04-08T14:17:52.8459626Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Combine Excel Tables By Union All.dtsx</Name>
-      <LastWriteTime>2022-04-08T13:41:04.7443514Z</LastWriteTime>
+      <Name>Package.dtsx</Name>
+      <LastWriteTime>2022-04-08T13:43:47.9063419Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
-      <Name>SSIS transformation Practice.dtsx</Name>
-      <LastWriteTime>2022-04-08T14:04:42.720492Z</LastWriteTime>
+      <Name>Variables.dtsx</Name>
+      <LastWriteTime>2022-04-08T14:17:52.8268372Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
