@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Data Types and Data Concersion", "Data Types and Data Concersion.dtproj", "{542942DE-DBCE-4122-BAE0-3629A63AC197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542942DE-DBCE-4122-BAE0-3629A63AC197}.Development|Default.ActiveCfg = Development
+		{542942DE-DBCE-4122-BAE0-3629A63AC197}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB897CF4-F1A2-4424-A649-F3978AB1D5FF}
+	EndGlobalSection
+EndGlobal

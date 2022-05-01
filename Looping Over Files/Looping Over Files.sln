@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Looping Over Files", "Looping Over Files.dtproj", "{AD0B6CA2-55F0-4575-9726-FFD47B049AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0B6CA2-55F0-4575-9726-FFD47B049AAD}.Development|Default.ActiveCfg = Development
+		{AD0B6CA2-55F0-4575-9726-FFD47B049AAD}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE554B79-D8D9-413A-8867-8E1D8517DC78}
+	EndGlobalSection
+EndGlobal

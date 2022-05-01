@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Sequence Containers and For Loops", "Sequence Containers and For Loops.dtproj", "{24765C14-0E91-456F-952D-355C2C2ED9B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24765C14-0E91-456F-952D-355C2C2ED9B5}.Development|Default.ActiveCfg = Development
+		{24765C14-0E91-456F-952D-355C2C2ED9B5}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9319087-AA71-4ADB-9D69-4CF4A7D547DB}
+	EndGlobalSection
+EndGlobal
